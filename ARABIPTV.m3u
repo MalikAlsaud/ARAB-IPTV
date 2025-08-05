@@ -157,7 +157,7 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" ,SBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 tvg-id="SaudiTV.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png" ,الأولى
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+http://trn03.bozztv.com/gin-sauditv/index.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png" ,ذكريات
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" ,الإخبارية
@@ -778,4 +778,5 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u
 #EXTINF:-1 tvg-id="France24.svn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png",FRANCE 24 EN
 https://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
+
 
